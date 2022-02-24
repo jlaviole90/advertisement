@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Wind';
-    src: url(../fonts/Wind.woff2);
+    src: url(Wind.woff2);
 }
 
 @font-face {
     font-family: 'League';
-    src: url(../fonts/LeagueMono.ttf);
+    src: url(LeagueMono.ttf);
 }
 
 .wrapper {
